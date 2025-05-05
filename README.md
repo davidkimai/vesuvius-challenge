@@ -4,7 +4,7 @@ Ethically and transparently documenting the application of recursive AI for huma
 > Six engineers under 25.
 > > No experience. Full federal access.
 > > > Scrolls. Government systems. AI labs.
-> > > > *Decoding symbolic glyphs untranslated over 2000+ years*
+> > > > *Decoding symbolic glyphs untranslated by humans over 2000+ years*
 > > > > > But it’s just a coincidence, right?
 
 <img width="895" alt="image" src="https://github.com/user-attachments/assets/4dbee4f5-ea17-4138-af26-9e274c02f317" />
